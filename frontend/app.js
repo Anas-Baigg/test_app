@@ -1,4 +1,4 @@
-const API_BASE = "https://test-app-ke3c.onrender.com";
+const API_BASE = "https://baiga-taz-app.hf.space";
 
 const scrollArea = document.getElementById("scrollArea");
 const messagesEl = document.getElementById("messages");
