@@ -1,5 +1,4 @@
-// NOTE: replace this with your deployed backend URL if the frontend is not served from the same host.
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://test-app-ke3c.onrender.com";
 
 const scrollArea = document.getElementById("scrollArea");
 const messagesEl = document.getElementById("messages");
